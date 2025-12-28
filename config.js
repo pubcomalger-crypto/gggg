@@ -4,9 +4,9 @@ const profileConfig = {
     // Informations de base
 
 
-    name: "COCA",
-    bio: "SALAM",
-    profileImage: "https://i.ibb.co/NgKMhgMT/cocacola.jpg",
+    name: "ifri",
+    bio: "jus",
+    profileImage: "https://courses.echrily.com/wp-content/uploads/sites/4/2025/08/ifriut-jus-orange-peche-1l-echrily-algerie.jpg",
     
 
 
@@ -19,7 +19,7 @@ const profileConfig = {
         instagram: "https://www.instagram.com/riyadmahrez26.7?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
         tiktok: "https://www.tiktok.com/@chebkhaled?is_from_webapp=1&sender_device=pc",
         whatsapp: "+213540253369",
-        telegram: "+213 562 33 14 08",
+        telegram: "+213 658546209",
         linkedin: "daisyparkhouse",
         snapchat: "https://www.snapchat.com/@sheikh_tidiane?sender_web_id=792b2a4d-05d3-4e8f-a5e0-1aeb89eba722&device_type=desktop&is_copy_url=true",
         email: "pubcom.alger@gmail.com",
@@ -40,9 +40,9 @@ const profileConfig = {
         instagram: true,     // Afficher Instagram
         tiktok: true,        // Afficher TikTok
         whatsapp: true,      // Afficher WhatsApp
-        telegram: true,      // Afficher Telegram
-        linkedin: false,     // Afficher LinkedIn (mettre true pour l'activer)
-        website: false,       // Afficher Site Web
+        telegram: false,      // Afficher Telegram
+        linkedin: true,     // Afficher LinkedIn (mettre true pour l'activer)
+        website: true,       // Afficher Site Web
         maps: true,          // Afficher Maps
         phone: true,         // Afficher Téléphone
         snapchat: true,      // Afficher Snapchat

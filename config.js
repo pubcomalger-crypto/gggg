@@ -4,9 +4,9 @@ const profileConfig = {
     // Informations de base
 
 
-    name: "ifri",
-    bio: "jus",
-    profileImage: "https://courses.echrily.com/wp-content/uploads/sites/4/2025/08/ifriut-jus-orange-peche-1l-echrily-algerie.jpg",
+    name: "kamal",
+    bio: "orange mouh",
+    profileImage: "https://posterjack.ca/cdn/shop/articles/landscape_photography_tips_featured_image.jpg?v=1563408049&width=1500",
     
 
 
@@ -37,10 +37,10 @@ const profileConfig = {
     // Activation des icônes (mettre true pour afficher, false pour masquer)
     enabledIcons: {
         facebook: true,      // Afficher Facebook
-        instagram: true,     // Afficher Instagram
+        instagram: false,     // Afficher Instagram
         tiktok: true,        // Afficher TikTok
         whatsapp: true,      // Afficher WhatsApp
-        telegram: false,      // Afficher Telegram
+        telegram: true,      // Afficher Telegram
         linkedin: true,     // Afficher LinkedIn (mettre true pour l'activer)
         website: true,       // Afficher Site Web
         maps: true,          // Afficher Maps

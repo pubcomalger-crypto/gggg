@@ -4,9 +4,9 @@ const profileConfig = {
     // Informations de base
 
 
-    name: "COCA",
-    bio: "SALAM",
-    profileImage: "https://i.ibb.co/NgKMhgMT/cocacola.jpg",
+    name: "jus",
+    bio: "kamal mou",
+    profileImage: "https://posterjack.ca/cdn/shop/articles/landscape_photography_tips_featured_image.jpg?v=1563408049&width=1500",
     
 
 
@@ -36,9 +36,9 @@ const profileConfig = {
 
     // Activation des icônes (mettre true pour afficher, false pour masquer)
     enabledIcons: {
-        facebook: true,      // Afficher Facebook
+        facebook: false,      // Afficher Facebook
         instagram: true,     // Afficher Instagram
-        tiktok: true,        // Afficher TikTok
+        tiktok: false,        // Afficher TikTok
         whatsapp: true,      // Afficher WhatsApp
         telegram: true,      // Afficher Telegram
         linkedin: false,     // Afficher LinkedIn (mettre true pour l'activer)
@@ -83,3 +83,4 @@ if (typeof module !== 'undefined' && module.exports) {
 } else {
     window.profileConfig = profileConfig;
 }
+

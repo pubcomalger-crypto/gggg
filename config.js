@@ -4,8 +4,8 @@ const profileConfig = {
     // Informations de base
 
 
-    name: "jus",
-    bio: "kamal mou",
+    name: "uiouc",
+    bio: "jamal 99977",
     profileImage: "https://posterjack.ca/cdn/shop/articles/landscape_photography_tips_featured_image.jpg?v=1563408049&width=1500",
     
 
@@ -83,4 +83,5 @@ if (typeof module !== 'undefined' && module.exports) {
 } else {
     window.profileConfig = profileConfig;
 }
+
 
